@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  height: 100vh;
+}
+#login .container #login-row #login-column #login-box {
+  margin-top: 120px;
+  max-width: 600px;
+  height: 320px;
+  border: 1px solid #000;
+  background-color: #1ABC9C;
+}
+#login .container #login-row #login-column #register-box {
+  padding-top: 20px;
+  margin-top: 120px;
+  max-width: 600px;
+  height: 400px;
+  border: 1px solid #000;
+  background-color: #1ABC9C;
+}
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+  margin-top: -85px;
+}
+
+.text-info {
+    color: #000!important;
+}
+a.text-info {
+    color: #000!important;
+}
+a.text-info:hover {
+    color: #000!important;
+}
